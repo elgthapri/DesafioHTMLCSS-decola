@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align:center;
+    padding: 11%;
+    margin:0%;
+    
+}
+
+.primeiroDia {
+    background-color: red;
+}
+
+.segundoDia {
+    background-color: orange;
+}
+
+.terceiroDia {
+    background-color: yellow;
+}
